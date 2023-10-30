@@ -55,6 +55,8 @@ Approach:
                         We are going to make optimal use of these to train our machine learning model for better
                         prediction. The dataset is provided in the Government website.
 
+                        Dataset link : https://tn.data.gov.in/resource/location-wise-daily-ambient-air-quality-tamil-nadu-year-2014
+
                 Unsupervised learning algorithm:
                         The Unsupervised algorithm is the process in which the training dataset contains only the
                         input set and not the corresponding target vectors. The main criterion is to find groups
